@@ -1,4 +1,4 @@
-//! ## MD5 implementation for Rust
+//! ## MD5 example
 //! http://rosettacode.org/wiki/MD5#Rust
 
 extern crate crypto;
