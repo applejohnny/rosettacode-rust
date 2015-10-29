@@ -1,0 +1,4 @@
+[root]
+name = "rosettacode-rust-echo-server"
+version = "0.1.0"
+
