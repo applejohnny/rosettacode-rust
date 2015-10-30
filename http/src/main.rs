@@ -1,5 +1,5 @@
 //! HTTP get request example
-//!
+//! http://rosettacode.org/wiki/HTTP#Rust
 
 extern crate hyper;
 

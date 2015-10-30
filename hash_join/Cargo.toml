@@ -1,7 +1,4 @@
 [package]
-name = "rosettacode-rust-md5"
+name = "hash_join"
 version = "0.1.0"
 authors = ["Dmitriy <buratinka99@gmail.com>"]
-
-[dependencies]
-rust-crypto = "0.2"
